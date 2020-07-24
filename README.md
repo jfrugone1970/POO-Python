@@ -1,7 +1,7 @@
 # POO-Python
 
 <p align="center">
-  <img src = "python.png" />
+  <img src = "Python.png" />
 </p>
 
 Programación Orientada a Objetos en Python
@@ -12,7 +12,7 @@ Clases.- Las clases proporcionan un medio de agrupar datos y funcionalidad junto
 En comparación con otros lenguajes de programación, el mecanismo de clase de Python agrega clases con un mínimo de sintaxis y semántica nuevas. Es una mezcla de los mecanismos de clase que se encuentran en C ++ y Modula-3. Las clases de Python proporcionan todas las características estándar de la programación orientada a objetos: el mecanismo de herencia de clases permite múltiples clases base, una clase derivada puede anular cualquier método de su clase o clases base, y un método puede llamar al método de una clase base con el mismo nombre . Los objetos pueden contener cantidades arbitrarias y tipos de datos. Como sucede con los módulos, las clases participan de la naturaleza dinámica de Python: se crean en tiempo de ejecución y se pueden modificar aún más después de la creación.
 
 <p align="center">
-  <img src = "poo.png" />
+  <img src = "POO.png" />
 </p>
 
 Este manual de programación Orientada a Objetos en Python también se lo puede ubicar en el link o enlace
